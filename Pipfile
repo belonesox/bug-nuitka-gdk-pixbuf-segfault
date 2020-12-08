@@ -10,7 +10,6 @@ numpy = "*"
 pygobject = "*"
 pipenv = "*"
 nuitka = "==0.6.10"
-belonesox-tools = {editable = true, git = "https://github.com/belonesox/python-belonesox-tools.git"}
 
 [requires]
 python_version = "3.8"
